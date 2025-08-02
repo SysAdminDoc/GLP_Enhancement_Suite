@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         GodLikeProductions Enhanced Suite
-// @namespace    https://greasyfork.org/users/1033655
+// @namespace    https://github.com/SysAdminDoc/GLP_Enhancement_Suite
 // @version      4.2.0.20250802
 // @description  Hides threads, blocks ads, bypasses nags, provides infinite scrolling, and a modern UI with extensive features for GodLikeProductions.
-// @author       You
+// @author       Matthew Parker
 // @match        https://www.godlikeproductions.com/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // @grant        GM_addStyle
