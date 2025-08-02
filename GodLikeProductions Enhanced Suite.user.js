@@ -9,8 +9,8 @@
 // @grant        GM_addStyle
 // @grant        GM_getValue
 // @grant        GM_setValue
-// @downloadURL  https://update.greasyfork.org/scripts/460834/GodLikeProductions%20Enhanced%20Suite.user.js
-// @updateURL    https://update.greasyfork.org/scripts/460834/GodLikeProductions%20Enhanced%20Suite.meta.js
+// @downloadURL  https://github.com/SysAdminDoc/GLP_Enhancement_Suite/raw/refs/heads/main/GodLikeProductions%20Enhanced%20Suite.user.js
+// @updateURL    https://github.com/SysAdminDoc/GLP_Enhancement_Suite/raw/refs/heads/main/GodLikeProductions%20Enhanced%20Suite.user.js
 // ==/UserScript==
 
 (function() {
